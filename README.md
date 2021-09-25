@@ -4,12 +4,16 @@ Let's git it started 행사는 프로젝트릴 진행하면서 자주 사용하�
 
 
 
+
+
 ### 🖐 행사 소개
 
 - 자신을 소개하는 글을 작성한 후 **Pull Request**합니다.
 - 다른 사람들의 자기소개글을 읽으며 댓글과 이모지 등을 활용해 적극적으로 소통합니다.
 - 다른 사람들의 **Pull Request**를 **review**한 후 **approve**합니다.
 - **6명 이상의 동아리원**들로부터 **approve**를 받으신 분들에 한해, 확인 후 **merge**해드립니다.
+
+
 
 
 
@@ -33,11 +37,15 @@ Let's git it started 행사는 프로젝트릴 진행하면서 자주 사용하�
 
 
 
+
+
 ### 🔎 Let's git it started 행사 목표
 
 - Git/Github와 Markdown 문법 공부
 - Git/Github에 대한 이론 및 실습 경험
 - 개발자가 되기 위한 첫 발자국👣
+
+
 
 
 
